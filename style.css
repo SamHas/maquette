@@ -274,10 +274,10 @@ ul li{
 
 /* --------------------------------------------- confirmation page -------------------------------- */
 
-#conf-page{
-    /* background-image: url(imgs/background.svg); */
+/* #conf-page{
+    /* background-image: url(imgs/background.svg); 
 
-}
+} */
 
 #etape1{
     font-family: Poppins;
@@ -305,9 +305,10 @@ ul li{
     font-size: 20px;
     text-transform: uppercase;
     padding: 10px 20px 15px 30px;
+    margin-top: 10px;
     border-top-left-radius: 0;
-    border-bottom-left-radius: 30px;
-    border-top-right-radius: 30px;
+    border-bottom-left-radius: 40px;
+    border-top-right-radius: 40px;
     border-bottom-right-radius: 0px;
     border-style: none;
     transition: 0.3s;   
