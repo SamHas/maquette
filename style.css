@@ -23,21 +23,21 @@
     margin-right: -250px;
 }
 .grid-item2{
-    display: flex;
-    justify-content: right;
-    margin-right: 100px;
-    margin-bottom: 70px;
+    /* display: flex; */
+    /* justify-content: right; */
+    /* margin-right: 100px; */
+    margin: 50px 0px 20px -10px;
 }
 .grid-item2 img{
-    margin-right: -200px;
+    margin-right: -100px;
 }
 #button-play{
     width: 20px;
     height: 20px;
-    margin: 270px 200px 70px -80px;   
+    margin: 270px 200px 55px -80px;   
     background-color: #ff0000;
     color: white;
-    padding: 10px 20px 15px 30px;
+    padding: 10px 20px 15px 10px;
     border-top-left-radius: 0;
     border-bottom-left-radius: 30px;
     border-top-right-radius: 30px;
