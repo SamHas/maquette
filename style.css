@@ -4,7 +4,7 @@
 /* ---------- ------------------------------------ index page --------------------------------- */
 .grid-container{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr;
 }
 .grid-item1{
     color: white;
@@ -30,6 +30,20 @@
 }
 .grid-item2 img{
     margin-right: -200px;
+}
+#button-play{
+    width: 20px;
+    height: 20px;
+    margin: 270px 200px 70px -80px;   
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 20px 15px 30px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 0px;
+    border-style: none;
+    transition: 0.3s; 
 }
 #index_button{
     background-color: #ffffff;
